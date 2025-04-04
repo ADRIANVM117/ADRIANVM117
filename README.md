@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/124829952?v=4" width="150" alt="Adrian's profile picture"/>
-</p>
-
 # 👋 Hi, I'm Adrian
 
 🎓 I'm an **Actuary** and **Data Scientist** passionate about **Quantitative Finance**, **Machine Learning**, and **Deep Learning**.  
