@@ -13,7 +13,7 @@
 | [📊 Stock Prediction (Chedraui)](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/Prediction_of_Chedraui's_stock_using_time_series) | Forecasting using ARIMA and LSTM |
 | [📉 Deep Learning Backtesting](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/Backtesting) | Evaluating trading strategies with DL |
 | [💼 Portfolio Optimization](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/Investment_Markowitz) | Markowitz model and Monte Carlo simulation |
-
+| [🧪 Trader HFT VS NON HFT](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/clasificacion_TRADERS_HFT_VS_NON_HFT) | HFT vs NON-HFT Classification Model   |
 ---
 
 ## 🛠️ Skills & Tools
