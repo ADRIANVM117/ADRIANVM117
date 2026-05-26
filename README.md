@@ -9,8 +9,7 @@
 
 | 🔧 Project | 📌 Description |
 |-----------|----------------|
-|[Optimal Execution under Market Impact (TWAP, VWAP, Almgren–Chriss, Reinforcement Learning)](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/Optimal_execution_under_market_impact)  | Designed and implemented a stochastic optimal execution research framework incorporating market impact, Brownian
-price dynamics, real intraday SPY market data, and reinforcement learning execution environments.                |
+|[Optimal Execution under Market Impact (TWAP, VWAP, Almgren–Chriss, Reinforcement Learning)](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/Optimal_execution_under_market_impact)  | Designed and implemented a stochastic optimal execution research framework incorporating market impact, Brownian price dynamics, real intraday SPY market data, and reinforcement learning execution environments.  |
 | [🧪 Quantitative Backtesting with LSTM and Stochastic Volatility Models](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/GE_STOCK_STATS_AND_PREDICTIVE_MODEL) | Deep learning models combined with financial volatility metrics |
 | [📊 Stock Prediction (Chedraui)](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/Prediction_of_Chedraui's_stock_using_time_series) | Forecasting using ARIMA and LSTM |
 | [📉 Deep Learning Backtesting](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/Backtesting) | Evaluating trading strategies with DL |
