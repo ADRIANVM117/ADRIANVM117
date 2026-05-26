@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Adrian
 
-🎓 Actuary focused on Quantitative Risk Modeling, financial data science, and quantitative research. Interested in market behavior, machine learning, and systematic decision-making. FRM Part I Candidate (Aug 2026) | Prospective MSc in Computer Science candidate at ITAM.
+🎓 Actuary working in financial risk modeling with a strong interest in quantitative research, stochastic systems, and market dynamics. Exploring machine learning, optimal execution, and adaptive models for decision-making under uncertainty. FRM Part I Candidate (Aug 2026). Prospective MSc in Computer Science candidate at ITAM.
+
+
 
 ---
 
