@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Adrian
 
-🎓 I'm an **Actuary** and **Data Scientist** passionate about **Quantitative Finance**, **Machine Learning**, and **Deep Learning**.  
-📈 I build predictive models for stock prices, optimize portfolios, and analyze financial risks using data.
+🎓 Actuary focused on Quantitative Risk Modeling, financial data science, and quantitative research. Interested in market behavior, machine learning, and systematic decision-making. FRM Part I Candidate (Aug 2026) | Prospective MSc in Computer Science candidate at ITAM.
 
 ---
 
