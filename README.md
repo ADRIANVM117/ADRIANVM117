@@ -31,11 +31,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
-![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADRIANVM117&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIANVM117&layout=compact&theme=dark)
+![Adrian's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ADRIANVM117&show_icons=true&theme=dark&count_private=true)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ADRIANVM117&layout=compact&theme=dark)
+
 
 ---
 
