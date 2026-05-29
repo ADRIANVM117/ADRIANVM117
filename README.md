@@ -31,11 +31,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Adrian's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ADRIANVM117&show_icons=true&theme=dark&count_private=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ADRIANVM117&layout=compact&theme=dark)
+![GitHub followers](https://img.shields.io/github/followers/ADRIANVM117?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/ADRIANVM117?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/ADRIANVM117/data-science-portfolio?style=for-the-badge)
 
 
 ---
