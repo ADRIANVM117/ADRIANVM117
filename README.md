@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adrian
 
-🎓 Actuary working in financial risk modeling with a strong interest in quantitative research, stochastic systems, and market dynamics. Exploring machine learning, optimal execution, and adaptive models for decision-making under uncertainty. FRM Part I Candidate (Aug 2026). Prospective MSc in Computer Science candidate at ITAM.
+ Actuary working in financial risk modeling with a strong interest in quantitative research, stochastic systems, and market dynamics. Exploring machine learning, optimal execution, and adaptive models for decision-making under uncertainty. FRM Part I Candidate (Aug 2026). Prospective MSc in Computer Science candidate at ITAM.
 --- 
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ADRIANVM117&theme=github-dark)
@@ -10,8 +10,9 @@
 
 ## 🚀 Projects I'm proud of
 
-| 🔧 Project | 📌 Description |
+|  Project |  Description |
 |-----------|----------------|
+|[Scenario-Based Portfolio Construction and  Risk Engine)](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/scenario-portfolio-lab)  | Develop an end-to-end engine for daily portfolio decision support using real equity and ETF data sourced from Alpha Vantage over January 2018–October 2026 , translating market data and investment assumptions into allocations with explicit risk budgets and auditable diagnostics.  |
 |[Optimal Execution under Market Impact (TWAP, VWAP, Almgren–Chriss, Reinforcement Learning)](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/Optimal_execution_under_market_impact)  | Designed and implemented a stochastic optimal execution research framework incorporating market impact, Brownian price dynamics, real intraday SPY market data, and reinforcement learning execution environments.  |
 | [V3 — Regime-Dependent Bayesian Mispricing](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/v3_alpha_discovery) | Investigates whether Bayesian mispricing behaves differently across prediction market regimes. Results show that the predictive effect of mispricing reverses across information-processing states, providing evidence that market regime materially alters signal interpretation and potential alpha extraction. |
 | [V2 — Information Dynamics and Market Regimes in Polymarket Prediction Markets](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/bayesian-mispricing-v2) | Extended the analysis beyond Bayesian calibration by studying entropy, drawdown, reversals, and belief-updating dynamics. Developed market-efficiency classifiers, early warning systems, and discovered distinct information-processing regimes associated with dramatically different forecasting performance. | 
