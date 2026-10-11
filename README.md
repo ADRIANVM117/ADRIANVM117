@@ -3,8 +3,6 @@
  Actuary working in financial risk modeling with a strong interest in quantitative research, stochastic systems, and market dynamics. Exploring machine learning, optimal execution, and adaptive models for decision-making under uncertainty. FRM Part I Candidate (Aug 2026). Prospective MSc in Computer Science candidate at ITAM.
 --- 
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ADRIANVM117&theme=github-dark)
-
 
 ---
 
