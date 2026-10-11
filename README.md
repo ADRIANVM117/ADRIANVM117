@@ -16,11 +16,7 @@
 | [V3 — Regime-Dependent Bayesian Mispricing](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/v3_alpha_discovery) | Investigates whether Bayesian mispricing behaves differently across prediction market regimes. Results show that the predictive effect of mispricing reverses across information-processing states, providing evidence that market regime materially alters signal interpretation and potential alpha extraction. |
 | [V2 — Information Dynamics and Market Regimes in Polymarket Prediction Markets](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/bayesian-mispricing-v2) | Extended the analysis beyond Bayesian calibration by studying entropy, drawdown, reversals, and belief-updating dynamics. Developed market-efficiency classifiers, early warning systems, and discovered distinct information-processing regimes associated with dramatically different forecasting performance. | 
 |[V1 — Bayesian Mispricing Detection in Polymarket Prediction Markets](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/Bayesian_Fair_Value_Estimation_and_Mispricing_Detection_in_Prediction_Markets)    | Reconstructed a historical dataset from Polymarket (100,000+ probability observations across 43 resolved markets) to study calibration, Bayesian fair value estimation, and mispricing detection. Evaluated whether Bayesian-adjusted probabilities could generate exploitable trading signals and found little evidence of persistent alpha, supporting the hypothesis of broadly efficient prediction markets.| 
-| [🧪 Quantitative Backtesting with LSTM and Stochastic Volatility Models](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/GE_STOCK_STATS_AND_PREDICTIVE_MODEL) | Deep learning models combined with financial volatility metrics |
-| [📊 Stock Prediction (Chedraui)](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/Prediction_of_Chedraui's_stock_using_time_series) | Forecasting using ARIMA and LSTM |
-| [📉 Deep Learning Backtesting](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/Backtesting) | Evaluating trading strategies with DL |
-| [💼 Portfolio Optimization](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/Investment_Markowitz) | Markowitz model and Monte Carlo simulation |
-| [🧪 Trader HFT VS NON HFT](https://github.com/ADRIANVM117/data-science-portfolio/tree/main/clasificacion_TRADERS_HFT_VS_NON_HFT) | HFT vs NON-HFT Classification Model   |
+
 ---
 
 ## 🛠️ Skills & Tools
